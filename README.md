@@ -6,3 +6,7 @@
  |_|  \___/|_|  |_| |_| |_| |____/ \__,_|___/_|\___|___/
                                                         
 ```
+
+- Basic Form comes from [here](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+
+- Payment Form comes from [here](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
